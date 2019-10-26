@@ -1,1 +1,2 @@
-inicio del documento a ver que pasa
+lo que sea
+https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
